@@ -2,3 +2,8 @@ Testowane na Python 3.11.6
 
 Instalacja wymaganych bibliotek:
 pip install tensorflow numpy pillow matplotlib
+
+Najpierw uruchamiamy model.py, aby stworzyć i wytrenować model sieci neuronowej.
+Materiały do trenowania sieci znajdują się w folderze images.
+Następnie uruchamiamy app.py.
+Program wczyta 10 losowych zdjęć ptaków z fodleru test_img i określi ich gatunek.
