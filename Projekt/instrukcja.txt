@@ -1,7 +1,13 @@
 Testowane na Python 3.11.6
 
 Instalacja wymaganych bibliotek:
-pip install tensorflow numpy pillow matplotlib
+pip install tensorflow numpy pillow matplotlib scipy
+
+Uruchamiamy CMD
+cd 'sciezka do programu'
+python model.py
+python app.py
+
 
 Najpierw uruchamiamy model.py, aby stworzyć i wytrenować model sieci neuronowej.
 Materiały do trenowania sieci znajdują się w folderze images.
