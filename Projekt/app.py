@@ -1,12 +1,11 @@
+#Załadowanie niezbędnych modułów
 from tensorflow.keras.models import load_model
 from PIL import Image
 import numpy as np
 import os
 import random
 import re
-
 import matplotlib.pyplot as plt
-
 
 # Wczytanie modelu
 loaded_model = load_model('model.keras')
