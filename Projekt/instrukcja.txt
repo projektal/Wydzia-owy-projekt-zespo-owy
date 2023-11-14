@@ -1,7 +1,12 @@
-Testowane na Python 3.11.6
+Testowane na wersji Pythona 3.11.6
 
-Instalacja wymaganych bibliotek:
-pip install tensorflow numpy pillow matplotlib scipy
+Niezbędna instalacja wymaganych bibliotek:
+pip install tensorflow 
+pip install numpy
+pip install pillow
+pip install matplotlib
+pip install scipy
+
 
 Uruchamianie programu za pomocą wiersza poleceń
 Uruchamiamy CMD
